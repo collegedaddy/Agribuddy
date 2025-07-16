@@ -1,0 +1,111 @@
+{
+  "app": {
+    "name": "AgriCultural Buddy",
+    "tagline": "Your Agricultural Assistant",
+    "shortName": "AgriBuddy"
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "settings": "Settings",
+    "preferences": "Preferences",
+    "profile": "Profile",
+    "back": "Back",
+    "next": "Next",
+    "delete": "Delete",
+    "edit": "Edit",
+    "search": "Search",
+    "yes": "Yes",
+    "no": "No"
+  },
+  "languages": {
+    "english": "English",
+    "hindi": "Hindi",
+    "language": "Language",
+    "changeLanguage": "Change Language",
+    "languageChanged": "Language Changed",
+    "selectLanguage": "Select language"
+  },
+  "auth": {
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "signOut": "Sign Out",
+    "email": "Email",
+    "password": "Password",
+    "forgotPassword": "Forgot Password?",
+    "createAccount": "Create Account",
+    "alreadyHaveAccount": "Already have an account?",
+    "dontHaveAccount": "Don't have an account?",
+    "resetPassword": "Reset Password",
+    "myAccount": "My Account",
+    "logoutSuccess": "Logged out successfully",
+    "logoutMessage": "You have been logged out of your account.",
+    "logoutFailed": "Logout failed",
+    "logoutErrorMessage": "There was an error logging out. Please try again."
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "weatherDashboard": "Weather Dashboard",
+    "currentWeather": "Current Weather",
+    "updated": "Updated",
+    "temperature": "Temperature",
+    "humidity": "Humidity",
+    "windSpeed": "Wind Speed",
+    "precipitation": "Precipitation"
+  },
+  "weather": {
+    "alert": "Weather Alert",
+    "rainfall": "Rainfall",
+    "temperature": "Temperature",
+    "humidity": "Humidity",
+    "wind": "Wind",
+    "sunny": "Sunny",
+    "partlyCloudy": "Partly Cloudy",
+    "cloudy": "Cloudy",
+    "drizzle": "Drizzle",
+    "rain": "Rain",
+    "heavyRain": "Heavy Rain",
+    "snow": "Snow"
+  },
+  "notifications": {
+    "heavyRainAlert": "Heavy rainfall expected in your area in the next 24 hours."
+  },
+  "preferences": {
+    "customizeExperience": "Customize your experience",
+    "mandiRange": "Default Mandi Range (in KM)",
+    "appSettings": "Application Settings",
+    "pushNotifications": "Enable Push Notifications",
+    "emailUpdates": "Email Updates",
+    "autoRefreshWeather": "Auto-refresh Weather Data",
+    "lightMode": "Light Mode",
+    "darkMode": "Dark Mode",
+    "systemMode": "System Mode"
+  },
+  "crops": {
+    "manageCrops": "Manage Crops",
+    "addCrop": "Add Crop",
+    "removeCrop": "Remove Crop",
+    "cropName": "Crop Name",
+    "cropType": "Crop Type",
+    "cropStatus": "Crop Status",
+    "sowingDate": "Sowing Date",
+    "harvestDate": "Harvest Date",
+    "rice": "Rice",
+    "wheat": "Wheat",
+    "maize": "Maize",
+    "sugarcane": "Sugarcane"
+  },
+  "calendar": {
+    "title": "Calendar",
+    "addEvent": "Add Event",
+    "editEvent": "Edit Event",
+    "deleteEvent": "Delete Event",
+    "eventDate": "Event Date",
+    "eventTitle": "Event Title",
+    "eventDescription": "Event Description",
+    "eventType": "Event Type"
+  }
+} 
