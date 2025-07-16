@@ -72,36 +72,6 @@ agribuddy/
 └── ...
 ```
 
-## Deployment (GitHub Pages)
-
-1. **Install gh-pages:**
-   ```bash
-   npm install --save-dev gh-pages
-   ```
-2. **Update `package.json`:**
-   - Add a `homepage` field:
-     ```json
-     "homepage": "https://collegedaddy.github.io/agribuddy/"
-     ```
-   - Add scripts:
-     ```json
-     "predeploy": "npm run build",
-     "deploy": "gh-pages -d dist"
-     ```
-3. **Update `vite.config.ts`:**
-   Set the base path:
-   ```js
-   export default defineConfig({
-     base: '/agribuddy/',
-     // ...
-   })
-   ```
-4. **Deploy:**
-   ```bash
-   npm run deploy
-   ```
-
-Your site will be live at `https://collegedaddy.github.io/agribuddy/`.
 
 ## Contributing
 
